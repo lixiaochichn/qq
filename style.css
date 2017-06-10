@@ -1,0 +1,80 @@
+/*style.css*/
+
+.loginput{
+    width: 100%;
+    display: block;
+    width: 273px;
+    height: 44px;
+    font-size: 16px;
+    padding-left: 15px;
+}
+
+.loginput:first-child{
+    border-bottom: 1px solid #eaeaea;
+}
+
+body {
+    width: 360px;
+    background: #eee;
+}
+
+#logo {
+    width: 244px;
+    margin: auto;
+    display: block;
+    padding: 30px 0 20px;
+}
+
+.main {
+    width: 297px;
+    margin: auto;
+}
+
+.main .form {
+    overflow: hidden;
+    border-radius: 4px;
+
+}
+
+.btn {
+    display: block;
+    width: 100%;
+    font-size: 16px;
+    height: 44px;
+    margin-top:15px; 
+    border-radius: 4px;
+}
+
+.btn.login {
+    color: #fff;
+    border: 0;
+    background-color: #146fdf;
+}
+
+.btn.one_click {
+    color: #146fdf;
+    border: 1px;
+    border: 1px solid #9abbe3;
+}
+
+.link {
+    color: #246183;
+    text-decoration: none;
+    font-size: 14px;
+    padding: 15px 0;
+}
+
+.link.forget-password {
+    float: left;
+}
+
+.link.register {
+    float: right;
+}
+
+.footer {
+    width: 290px;
+    margin: auto;
+    margin-top: 15px;
+    overflow: hidden;
+}
