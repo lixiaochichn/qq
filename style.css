@@ -3,10 +3,11 @@
 .loginput{
     width: 100%;
     display: block;
-    width: 273px;
+    width: 290px;
     height: 44px;
     font-size: 16px;
     padding-left: 15px;
+    border: 0;
 }
 
 .loginput:first-child{
