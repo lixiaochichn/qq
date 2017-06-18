@@ -8,6 +8,7 @@
     font-size: 16px;
     padding-left: 15px;
     border: 0;
+    outline: none;
 }
 
 .loginput:first-child{
@@ -45,6 +46,7 @@ body {
     height: 44px;
     margin-top:15px; 
     border-radius: 4px;
+    outline: none;
 }
 
 .btn.login {
